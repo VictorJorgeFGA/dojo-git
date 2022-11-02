@@ -1,0 +1,650 @@
+[
+    {
+        "name": "Aatrox",
+        "difficulty": 4
+    },
+    {
+        "name": "Ahri",
+        "difficulty": 5
+    },
+    {
+        "name": "Akali",
+        "difficulty": 7
+    },
+    {
+        "name": "Akshan",
+        "difficulty": 0
+    },
+    {
+        "name": "Alistar",
+        "difficulty": 7
+    },
+    {
+        "name": "Amumu",
+        "difficulty": 3
+    },
+    {
+        "name": "Anivia",
+        "difficulty": 10
+    },
+    {
+        "name": "Annie",
+        "difficulty": 6
+    },
+    {
+        "name": "Aphelios",
+        "difficulty": 10
+    },
+    {
+        "name": "Ashe",
+        "difficulty": 4
+    },
+    {
+        "name": "AurelionSol",
+        "difficulty": 7
+    },
+    {
+        "name": "Azir",
+        "difficulty": 9
+    },
+    {
+        "name": "Bard",
+        "difficulty": 9
+    },
+    {
+        "name": "Belveth",
+        "difficulty": 10
+    },
+    {
+        "name": "Blitzcrank",
+        "difficulty": 4
+    },
+    {
+        "name": "Brand",
+        "difficulty": 4
+    },
+    {
+        "name": "Braum",
+        "difficulty": 3
+    },
+    {
+        "name": "Caitlyn",
+        "difficulty": 6
+    },
+    {
+        "name": "Camille",
+        "difficulty": 4
+    },
+    {
+        "name": "Cassiopeia",
+        "difficulty": 10
+    },
+    {
+        "name": "Chogath",
+        "difficulty": 5
+    },
+    {
+        "name": "Corki",
+        "difficulty": 6
+    },
+    {
+        "name": "Darius",
+        "difficulty": 2
+    },
+    {
+        "name": "Diana",
+        "difficulty": 4
+    },
+    {
+        "name": "Draven",
+        "difficulty": 8
+    },
+    {
+        "name": "DrMundo",
+        "difficulty": 5
+    },
+    {
+        "name": "Ekko",
+        "difficulty": 8
+    },
+    {
+        "name": "Elise",
+        "difficulty": 9
+    },
+    {
+        "name": "Evelynn",
+        "difficulty": 10
+    },
+    {
+        "name": "Ezreal",
+        "difficulty": 7
+    },
+    {
+        "name": "Fiddlesticks",
+        "difficulty": 9
+    },
+    {
+        "name": "Fiora",
+        "difficulty": 3
+    },
+    {
+        "name": "Fizz",
+        "difficulty": 6
+    },
+    {
+        "name": "Galio",
+        "difficulty": 5
+    },
+    {
+        "name": "Gangplank",
+        "difficulty": 9
+    },
+    {
+        "name": "Garen",
+        "difficulty": 5
+    },
+    {
+        "name": "Gnar",
+        "difficulty": 8
+    },
+    {
+        "name": "Gragas",
+        "difficulty": 5
+    },
+    {
+        "name": "Graves",
+        "difficulty": 3
+    },
+    {
+        "name": "Gwen",
+        "difficulty": 5
+    },
+    {
+        "name": "Hecarim",
+        "difficulty": 6
+    },
+    {
+        "name": "Heimerdinger",
+        "difficulty": 8
+    },
+    {
+        "name": "Illaoi",
+        "difficulty": 4
+    },
+    {
+        "name": "Irelia",
+        "difficulty": 5
+    },
+    {
+        "name": "Ivern",
+        "difficulty": 7
+    },
+    {
+        "name": "Janna",
+        "difficulty": 7
+    },
+    {
+        "name": "JarvanIV",
+        "difficulty": 5
+    },
+    {
+        "name": "Jax",
+        "difficulty": 5
+    },
+    {
+        "name": "Jayce",
+        "difficulty": 7
+    },
+    {
+        "name": "Jhin",
+        "difficulty": 6
+    },
+    {
+        "name": "Jinx",
+        "difficulty": 6
+    },
+    {
+        "name": "Kaisa",
+        "difficulty": 6
+    },
+    {
+        "name": "Kalista",
+        "difficulty": 7
+    },
+    {
+        "name": "Karma",
+        "difficulty": 5
+    },
+    {
+        "name": "Karthus",
+        "difficulty": 7
+    },
+    {
+        "name": "Kassadin",
+        "difficulty": 8
+    },
+    {
+        "name": "Katarina",
+        "difficulty": 8
+    },
+    {
+        "name": "Kayle",
+        "difficulty": 7
+    },
+    {
+        "name": "Kayn",
+        "difficulty": 8
+    },
+    {
+        "name": "Kennen",
+        "difficulty": 4
+    },
+    {
+        "name": "Khazix",
+        "difficulty": 6
+    },
+    {
+        "name": "Kindred",
+        "difficulty": 4
+    },
+    {
+        "name": "Kled",
+        "difficulty": 7
+    },
+    {
+        "name": "KogMaw",
+        "difficulty": 6
+    },
+    {
+        "name": "KSante",
+        "difficulty": 9
+    },
+    {
+        "name": "Leblanc",
+        "difficulty": 9
+    },
+    {
+        "name": "LeeSin",
+        "difficulty": 6
+    },
+    {
+        "name": "Leona",
+        "difficulty": 4
+    },
+    {
+        "name": "Lillia",
+        "difficulty": 8
+    },
+    {
+        "name": "Lissandra",
+        "difficulty": 6
+    },
+    {
+        "name": "Lucian",
+        "difficulty": 6
+    },
+    {
+        "name": "Lulu",
+        "difficulty": 5
+    },
+    {
+        "name": "Lux",
+        "difficulty": 5
+    },
+    {
+        "name": "Malphite",
+        "difficulty": 2
+    },
+    {
+        "name": "Malzahar",
+        "difficulty": 6
+    },
+    {
+        "name": "Maokai",
+        "difficulty": 3
+    },
+    {
+        "name": "MasterYi",
+        "difficulty": 4
+    },
+    {
+        "name": "MissFortune",
+        "difficulty": 1
+    },
+    {
+        "name": "MonkeyKing",
+        "difficulty": 3
+    },
+    {
+        "name": "Mordekaiser",
+        "difficulty": 4
+    },
+    {
+        "name": "Morgana",
+        "difficulty": 1
+    },
+    {
+        "name": "Nami",
+        "difficulty": 5
+    },
+    {
+        "name": "Nasus",
+        "difficulty": 6
+    },
+    {
+        "name": "Nautilus",
+        "difficulty": 6
+    },
+    {
+        "name": "Neeko",
+        "difficulty": 5
+    },
+    {
+        "name": "Nidalee",
+        "difficulty": 8
+    },
+    {
+        "name": "Nilah",
+        "difficulty": 10
+    },
+    {
+        "name": "Nocturne",
+        "difficulty": 4
+    },
+    {
+        "name": "Nunu",
+        "difficulty": 4
+    },
+    {
+        "name": "Olaf",
+        "difficulty": 3
+    },
+    {
+        "name": "Orianna",
+        "difficulty": 7
+    },
+    {
+        "name": "Ornn",
+        "difficulty": 5
+    },
+    {
+        "name": "Pantheon",
+        "difficulty": 4
+    },
+    {
+        "name": "Poppy",
+        "difficulty": 6
+    },
+    {
+        "name": "Pyke",
+        "difficulty": 7
+    },
+    {
+        "name": "Qiyana",
+        "difficulty": 8
+    },
+    {
+        "name": "Quinn",
+        "difficulty": 5
+    },
+    {
+        "name": "Rakan",
+        "difficulty": 5
+    },
+    {
+        "name": "Rammus",
+        "difficulty": 5
+    },
+    {
+        "name": "RekSai",
+        "difficulty": 3
+    },
+    {
+        "name": "Rell",
+        "difficulty": 0
+    },
+    {
+        "name": "Renata",
+        "difficulty": 8
+    },
+    {
+        "name": "Renekton",
+        "difficulty": 3
+    },
+    {
+        "name": "Rengar",
+        "difficulty": 8
+    },
+    {
+        "name": "Riven",
+        "difficulty": 8
+    },
+    {
+        "name": "Rumble",
+        "difficulty": 10
+    },
+    {
+        "name": "Ryze",
+        "difficulty": 7
+    },
+    {
+        "name": "Samira",
+        "difficulty": 6
+    },
+    {
+        "name": "Sejuani",
+        "difficulty": 4
+    },
+    {
+        "name": "Senna",
+        "difficulty": 7
+    },
+    {
+        "name": "Seraphine",
+        "difficulty": 0
+    },
+    {
+        "name": "Sett",
+        "difficulty": 2
+    },
+    {
+        "name": "Shaco",
+        "difficulty": 9
+    },
+    {
+        "name": "Shen",
+        "difficulty": 4
+    },
+    {
+        "name": "Shyvana",
+        "difficulty": 4
+    },
+    {
+        "name": "Singed",
+        "difficulty": 5
+    },
+    {
+        "name": "Sion",
+        "difficulty": 5
+    },
+    {
+        "name": "Sivir",
+        "difficulty": 4
+    },
+    {
+        "name": "Skarner",
+        "difficulty": 5
+    },
+    {
+        "name": "Sona",
+        "difficulty": 4
+    },
+    {
+        "name": "Soraka",
+        "difficulty": 3
+    },
+    {
+        "name": "Swain",
+        "difficulty": 8
+    },
+    {
+        "name": "Sylas",
+        "difficulty": 5
+    },
+    {
+        "name": "Syndra",
+        "difficulty": 8
+    },
+    {
+        "name": "TahmKench",
+        "difficulty": 5
+    },
+    {
+        "name": "Taliyah",
+        "difficulty": 5
+    },
+    {
+        "name": "Talon",
+        "difficulty": 7
+    },
+    {
+        "name": "Taric",
+        "difficulty": 3
+    },
+    {
+        "name": "Teemo",
+        "difficulty": 6
+    },
+    {
+        "name": "Thresh",
+        "difficulty": 7
+    },
+    {
+        "name": "Tristana",
+        "difficulty": 4
+    },
+    {
+        "name": "Trundle",
+        "difficulty": 5
+    },
+    {
+        "name": "Tryndamere",
+        "difficulty": 5
+    },
+    {
+        "name": "TwistedFate",
+        "difficulty": 9
+    },
+    {
+        "name": "Twitch",
+        "difficulty": 6
+    },
+    {
+        "name": "Udyr",
+        "difficulty": 7
+    },
+    {
+        "name": "Urgot",
+        "difficulty": 8
+    },
+    {
+        "name": "Varus",
+        "difficulty": 2
+    },
+    {
+        "name": "Vayne",
+        "difficulty": 8
+    },
+    {
+        "name": "Veigar",
+        "difficulty": 7
+    },
+    {
+        "name": "Velkoz",
+        "difficulty": 8
+    },
+    {
+        "name": "Vex",
+        "difficulty": 0
+    },
+    {
+        "name": "Vi",
+        "difficulty": 4
+    },
+    {
+        "name": "Viego",
+        "difficulty": 5
+    },
+    {
+        "name": "Viktor",
+        "difficulty": 9
+    },
+    {
+        "name": "Vladimir",
+        "difficulty": 7
+    },
+    {
+        "name": "Volibear",
+        "difficulty": 3
+    },
+    {
+        "name": "Warwick",
+        "difficulty": 3
+    },
+    {
+        "name": "Xayah",
+        "difficulty": 5
+    },
+    {
+        "name": "Xerath",
+        "difficulty": 8
+    },
+    {
+        "name": "XinZhao",
+        "difficulty": 2
+    },
+    {
+        "name": "Yasuo",
+        "difficulty": 10
+    },
+    {
+        "name": "Yone",
+        "difficulty": 8
+    },
+    {
+        "name": "Yorick",
+        "difficulty": 6
+    },
+    {
+        "name": "Yuumi",
+        "difficulty": 2
+    },
+    {
+        "name": "Zac",
+        "difficulty": 8
+    },
+    {
+        "name": "Zed",
+        "difficulty": 7
+    },
+    {
+        "name": "Zeri",
+        "difficulty": 6
+    },
+    {
+        "name": "Ziggs",
+        "difficulty": 4
+    },
+    {
+        "name": "Zilean",
+        "difficulty": 6
+    },
+    {
+        "name": "Zoe",
+        "difficulty": 5
+    },
+    {
+        "name": "Zyra",
+        "difficulty": 7
+    }
+]

@@ -1,6 +1,19 @@
-# Dojo Git
+# Dojo Git-Ruby
 
-# Estados de um arquivo
+## O que alterar
+
+Corrigir as funcoes no arquivo `app.rb`
+
+## Como validar suas correções
+
+Rode o comando
+```bash
+ruby tests.rb
+```
+
+## Sobre Git
+
+### Estados de um arquivo
 | Estado | Explicaçao |
 | :----: | :--------: |
 | `untracked` | O arquivo existe na pasta mas não está sendo _acompanhado_ pelo git |
@@ -8,7 +21,7 @@
 | `staged` | O arquivo está diferente da última versão _commitada_ no git, porém está pronto para ser _commitado_ novamente |
 | `commited` | O arquivo está exatamente igual ao que está no histórico do git |
 
-## Comandos git
+### Comandos git
 | Comando | Explicação |
 | :-----: | :--------: |
 | `git clone <http ou ssh>` | _Clona_ o repositório remoto em sua máquina local |
