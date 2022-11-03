@@ -1,16 +1,19 @@
 # Dojo Git-Ruby
 
-## O que alterar
+## Como realizar o Dojo
 
-Corrigir as funcoes no arquivo `app.rb`
+1 - Criar as funcoes que se pede no arquivo `basic.rb` e testá-las rodando os testes `tests_basic.rb`.
+2 - Corrigir as funcoes no arquivo `app.rb` e testá-las rodando os testes `tests_app.rb`
 
-## Como validar suas correções
+## Como rodar testes?
 
 Rode o comando
 ```bash
-ruby tests.rb
+ruby <arquivo_de_teste>
 ```
+substituindo `<arquivo de teste>` pelo nome do arquivo ruby de testes do exercicio
 
+> Ex.: `ruby tests_basic.rb`
 ## Sobre Git
 
 ### Estados de um arquivo
